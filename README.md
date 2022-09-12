@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Quentin, currently a student at ESME Sudria in France, focused on Data, Cloud and Artificial Intelligence
+
 <!--
 **QLeBot/QLeBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
