@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Quentin</h1>
 <h3 align="left">AI student engineer</h3>
 
-- 🌍  Based in Geneva and Paris
+- 🌍  Based in France near Geneva
 
 - 🧠 I’m learning **Data Science, Machine/Deep Learning, Cloud, DevOps**
 
@@ -15,6 +15,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lecomte-quentin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lecomte-quentin/" height="30" width="40" /></a>
 </p>
 
+<!--
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -156,7 +157,7 @@
 
 </p>
 
-<!--
+
 **QLeBot/QLeBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
