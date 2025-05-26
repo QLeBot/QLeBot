@@ -1,11 +1,11 @@
-<h1 align="left">Hi 👋, I'm Quentin</h1>
+<h1 align="left">Quentin L.</h1>
 <h3 align="left">Data Engineer with a background in IA</h3>
 
-- 🌍  Based in France near Geneva Swizerland
+- 🌍  Based in France near Geneva, Swizerland
 
 - 🧠  I have experiences as a Data Engineer with primary skills using Python and SQL working on Azure and AWS
 
-- 🔭  I am currently learning and working on Kafka, Databricks, Web Development and AI agents
+- 🔭  I am currently learning and working on PostGreSQL, Finance, Cryptocurrency.
 
 - 📫 How to reach me **lecomteq.ql@gmail.com**
 
