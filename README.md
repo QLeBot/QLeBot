@@ -1,9 +1,9 @@
 <h1 align="left">Quentin L.</h1>
 <h3 align="left">Data Engineer with a background in IA</h3>
 
-- 🌍  Based in France near Geneva, Switzerland
+- 🌍  Based in Paris, France
 
-- 🧠  I have experiences as a Data Engineer with primary skills using Python and SQL working on Azure and AWS
+- 🧠  I have experience as a Data Engineer with primary skills using Python and SQL working on Azure and AWS
 
 - 🔭  I am currently learning and working on PostgreSQL, Finance, Cryptocurrency.
 
