@@ -1,15 +1,18 @@
 <h1 align="left">Quentin L.</h1>
-<h3 align="left">Data Engineer with a background in IA</h3>
+<h3 align="left">Data Engineer with a background in AI</h3>
 
-- 🌍  Based in Paris, France
+- Based in Paris, France
 
-- 🧠  I have experience as a Data Engineer with primary skills using Python and SQL working on Azure and AWS
+- Master's degree in Artificial Intelligence
 
-- 🔭  I am currently learning and working on PostgreSQL, Finance, Cryptocurrency.
+- I have experience as a Data Engineer with primary skills using Python and SQL working on Snowflake, Azure and AWS
 
-- 📫 How to reach me **lecomteq.ql@gmail.com**
+- I am currently learning and working on Snowflake, dbt, PowerBI and data-driven financial analytics
+<!--
+- How to reach me **lecomteq.ql@gmail.com**
+-->
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/lecomte-quentin/](https://www.linkedin.com/in/lecomte-quentin/)
+- Know about my experiences [https://www.linkedin.com/in/lecomte-quentin/](https://www.linkedin.com/in/lecomte-quentin/)
 
 
 <h3 align="left">Connect with me:</h3>
